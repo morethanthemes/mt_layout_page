@@ -9,5 +9,6 @@
             "email": "skounis@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
